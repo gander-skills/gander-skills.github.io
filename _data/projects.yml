@@ -1,0 +1,8 @@
+# Public repositories of the gander-skills organization, grouped for the landing page.
+# Each project: name, repo (owner/name), description, language, optional links (label + url).
+
+- group: Marketplace
+  projects:
+    - name: marketplace
+      repo: gander-skills/marketplace
+      description: The Claude Code plugin marketplace with skills and plugins by gander.

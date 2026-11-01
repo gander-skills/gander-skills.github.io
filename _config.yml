@@ -1,0 +1,15 @@
+title: gander-skills
+tagline: Claude Code skills, plugins and marketplace by gander
+description: Skills for Claude Code, including plugins and a marketplace, by gander.
+url: https://gander-skills.github.io
+baseurl: ""
+owner:
+  name: gander
+  url: https://github.com/gander
+org_url: https://github.com/gander-skills
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
